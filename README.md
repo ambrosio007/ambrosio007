@@ -1,9 +1,7 @@
 ## Olá! eu sou José Ambrósio 👋
 
 - 👨🏽‍💻 Back-end
-- 📝 Estudando Python
-- 😁 Pronomes:Ele/Dele
-
+  
 <p align="left">
     
   <a href="https://github.com/ambrosio007?tab=followers">
